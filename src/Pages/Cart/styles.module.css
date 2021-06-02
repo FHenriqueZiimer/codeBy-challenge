@@ -1,0 +1,63 @@
+.cartProducts {
+  align-content: center;
+  padding: 0px 1.5vw;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.FreeShippingAlert {
+  color: green;
+  width: 70%;
+  text-align: center;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #bdecb6;
+}
+
+.footerModel {
+  margin: 20px 0 20px;
+  padding: 0px 10px;
+  align-items: center;
+  border-top:  solid #d1d7e5 2px;
+  border-bottom: solid #d1d7e5 2px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.productDetails {
+  padding: 10px 20px;
+  width: 100%;
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.totalPrice {
+  margin: 14px 10px 10px;
+  padding: 0px 10px;
+  align-items: center;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+img {
+  border: solid #d1d7e5 2px;
+  max-height: 15vh;
+  max-width: 10vw;
+}
+
+.product {
+  margin-top: 15px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
