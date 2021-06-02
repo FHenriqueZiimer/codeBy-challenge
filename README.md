@@ -1,5 +1,40 @@
 # Teste Carrinho
 
+## Primeiro passo para inicar o projeto :rocket:
+
+Clone o repositório em sua máquina e acesse a pasta raiz do projeto e rodar o comando:
+
+```shell
+npm i
+```
+
+O gerenciador de pacotes irá instalar todas as dependências seguindo o arquivo package.json. :package:
+
+Após estar com todos os pacotes instalados, execute o comando:
+
+```shell
+npm start
+```
+Pronto! A pagina irá iniciar localmente :rocket:
+
+# API 
+## Primeiro passo
+
+Entre na pasta `api` e execute o comando:
+
+```shell
+npm i 
+```
+O gerenciador de pacotes irá instalar todas as dependências seguindo o arquivo package.json. :package:
+
+Após estar com todos os pacotes instalados, execute o comando:
+
+```shell
+npm start 
+```
+
+Pronto! A api estará rodando e sendo consumida pela pagina.
+
 ## Objetivos:
 
 - Desenvolver um “Carrinho de compras” usando uma API.
